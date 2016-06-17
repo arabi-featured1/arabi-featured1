@@ -1,0 +1,11 @@
+ <script type='text/javascript'>
+      //<![CDATA[
+      $(document).ready(function(){
+        selectnav('menu-main1', {
+          label: 'القائمة ',
+          nested: true,
+          autoselect: false,
+          indent: '-'
+        });
+      });
+      //]]></script>
